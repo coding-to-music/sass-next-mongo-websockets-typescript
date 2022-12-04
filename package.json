@@ -1,0 +1,21 @@
+{
+  "name": "sass-next-mongo-websockets-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "git add . && git commit -m Build && git push",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/async-labs/saas.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/async-labs/saas/issues"
+  },
+  "homepage": "https://github.com/async-labs/saas#readme"
+}

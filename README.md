@@ -1,7 +1,31 @@
-![image](https://user-images.githubusercontent.com/26158226/155850630-137ae3be-aa29-487b-a422-e8fb4db634dc.png)
+# sass-next-mongo-websockets-typescript
 
-Support Ukraine: [link](https://bank.gov.ua/en/news/all/natsionalniy-bank-vidkriv-spetsrahunok-dlya-zboru-koshtiv-na-potrebi-armiyi)
+# 🚀 Build your own SaaS business with SaaS boilerplate. Productive stack: React, Material-UI, Next, MobX, WebSockets, Express, Node, Mongoose, MongoDB. Written with TypeScript. 🚀
 
+https://github.com/coding-to-music/sass-next-mongo-websockets-typescript
+
+https://sass-next-mongo-websockets-typescript.vercel.app
+
+From / By https://github.com/async-labs/saas
+
+https://saas-app.async-await.com/
+
+## Environment variables:
+
+```java
+```
+
+## GitHub
+
+```java
+git init
+git add .
+git remote remove origin
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:coding-to-music/sass-next-mongo-websockets-typescript.git
+git push -u origin main
+```
 
 ## SaaS Boilerplate
 
